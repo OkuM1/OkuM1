@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi there, I'm Murat Okutucu aka TinyO! 🤖
 
-<!--
-**OkuM1/OkuM1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+🎓 Studying at 42 School, I've honed my skills in software development through hands-on projects and immersive challenges. This unique educational experience has equipped me with a robust foundation in programming and problem-solving, preparing me to tackle real-world problems with confidence and creativity.
 
-Here are some ideas to get you started:
+🔬 With a degree in biology and natural sciences complementing my technical expertise, I bring a unique perspective to problem-solving, combining the precision of code with a deep understanding of the natural world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Programming isn't just my profession—it's my hobby. I thrive on the thrill of diving into new technologies, exploring cutting-edge tools, and pushing boundaries.
+
+
+Always making time for additional certifications like CS50! 🌟📚 Keeping skills sharp and staying ahead of the curve.
+
+As an enthusiastic developer I am always open for new learning and career opportunities! 
+I'm excited to connect with you! Let's innovate, create, one -centered <div>- or -iterated string[i]- at a time. 🚀✨
+
+Let's Connect!
+📌 From Germany
+🔗 Connect with me on LinkedIn: www.linkedin.com/in/muratokutucu
+
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+Status: Always coding! 🖥️
