@@ -8,8 +8,7 @@ About me:
 
 
 
-Traversing the tech world one bonfire at a time. 🔥
-![](https://github.com/OkuM1/OkuM1/blob/main/darksouls.gif)
+Traversing the tech world one bonfire at a time. 🔥![](https://github.com/OkuM1/OkuM1/blob/main/darksouls.gif)
 
 
 
