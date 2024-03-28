@@ -10,8 +10,7 @@ About me:
 
 Always making time for additional certifications like CS50! 🌟📚 Keeping skills sharp and staying ahead of the curve.
 
-As an enthusiastic developer I am always open for new learning and career opportunities! 
-I'm excited to connect with you! Let's innovate, create, one -centered <div>- or -iterated string[i]- at a time. 🚀✨
+As an enthusiastic developer I am always open for new learning and career opportunities!  🚀✨
 
 Let's Connect!
 📌 From Germany
