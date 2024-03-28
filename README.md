@@ -2,13 +2,17 @@ Hi there, I'm Murat aka TinyO! 🤖
 
 About me:
 
-🎓 Studying at 42 School, I've honed my skills in software development.                                            
+🎓 Studying at 42 School, I've honed my skills in software development.
+
 🔬 With a university degree in biology and natural sciences complementing my technical expertise.
-💻 Always making time for additional certifications like CS50! 🌟📚 Keeping skills sharp and staying ahead of the curve.
+
+💻 Always making time for additional certifications like CS50! 
 
 
 
-Traversing the tech world one bonfire at a time. 🔥![](https://github.com/OkuM1/OkuM1/blob/main/darksouls.gif)
+
+Traversing the tech world one bonfire at a time. 🔥
+![](https://github.com/OkuM1/OkuM1/blob/main/darksouls.gif)
 
 
 
