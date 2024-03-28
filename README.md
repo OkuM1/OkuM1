@@ -4,7 +4,7 @@ About me:
 
 🎓 Studying at 42 School, I've honed my skills in software development.
 
-🔬 With a university degree in biology and natural sciences complementing my technical expertise.
+🔬 A university degree in biology and natural sciences complementing my technical expertise with a unique perspective.
 
 💻 Always making time for additional certifications like CS50! 
 
