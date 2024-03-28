@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Murat aka TinyO! 🤖</h1>
+<h1>Hi there, I'm Murat aka. TinyO! 🤖</h1>
 
 About me:
 
