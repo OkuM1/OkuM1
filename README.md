@@ -1,4 +1,4 @@
-Hi there, I'm Murat Okutucu aka TinyO! 🤖
+Hi there, I'm Murat aka TinyO! 🤖
 
 About me:
 
