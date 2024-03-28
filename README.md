@@ -17,5 +17,4 @@ Let's Connect!
 📌 From Germany
 🔗 Connect with me on LinkedIn: www.linkedin.com/in/muratokutucu
 
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 Status: Always coding! 🖥️
