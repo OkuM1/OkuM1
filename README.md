@@ -1,4 +1,4 @@
-Hi there, I'm Murat aka TinyO! 🤖
+<h1>Hi there, I'm Murat aka TinyO! 🤖</h1>
 
 About me:
 
@@ -22,8 +22,12 @@ Traversing the tech world one bonfire at a time. 🔥
 
 As an enthusiastic developer I am always open for new learning and career opportunities!  🚀✨
 
-Let's Connect!
-🔗 Connect with me on LinkedIn: www.linkedin.com/in/muratokutucu
+<h2>Let's Connect!</h2>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muratokutucu)
+
+
 
 Status: Always coding! 🖥️
 
