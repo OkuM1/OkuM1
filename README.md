@@ -26,3 +26,10 @@ Let's Connect!
 🔗 Connect with me on LinkedIn: www.linkedin.com/in/muratokutucu
 
 Status: Always coding! 🖥️
+
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
