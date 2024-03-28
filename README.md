@@ -20,7 +20,7 @@ Traversing the tech world one bonfire at a time. 🔥
 
 
 
-As an enthusiastic developer I am always open for new learning and career opportunities!  🚀✨
+As a developer I am always open for opportunities to change and inspire the world!  🚀✨
 
 <h2>Let's Connect!</h2>
 
