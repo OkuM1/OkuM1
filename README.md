@@ -17,7 +17,7 @@ Traversing the tech world one bonfire at a time. 🔥
 
 🔬 A university degree in biology and natural sciences complementing my technical expertise with a unique perspective.
 
-💻 Always making time for additional certifications like CS50! 
+💻 Always making time for additional certifications! Completed: CS50,... 
 
 
 
