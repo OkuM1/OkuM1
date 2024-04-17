@@ -13,7 +13,7 @@ Traversing the tech world one bonfire at a time. 🔥
 
 <h2>About me</h2>
 
-🎓 Studying at 42 School, I've honed my skills in software development.
+🎓 Studying at 42 School, I've vastly improved my skills in software development.
 
 🔬 A university degree in biology and natural sciences complementing my technical expertise with a unique perspective.
 
