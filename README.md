@@ -21,7 +21,7 @@ Traversing the tech world one bonfire at a time. 🔥
 
 
 
-As a developer I am always open for opportunities to change and inspire the world!  🚀✨
+As a developer I am always open for new opportunities. 🚀
 
 <h3>Let's Connect!</h3>
 
