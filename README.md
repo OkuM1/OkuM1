@@ -31,10 +31,3 @@ As a developer I am always open for new opportunities. 🚀
 
 
 Status: Always coding! 🖥️
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkuM1)](https://github.com/OkuM1/github-readme-stats)
