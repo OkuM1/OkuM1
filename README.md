@@ -27,7 +27,3 @@ As a developer I am always open for new opportunities. 🚀
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muratokutucu)
-
-
-
-Status: Always coding! 🖥️
