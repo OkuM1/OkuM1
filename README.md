@@ -1,16 +1,5 @@
 <h1>Hi , I'm Murat </h1>
 
-
-
-![](https://github.com/OkuM1/OkuM1/blob/main/darksouls.gif)
-
-
-
-Traversing the tech world one bonfire at a time. 🔥
-
-
-
-
 <h2>About me</h2>
 
 🎓 Studying at 42 School, I've vastly improved my skills in software development.
