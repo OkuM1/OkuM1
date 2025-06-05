@@ -2,15 +2,11 @@
 
 <h2>About me</h2>
 
-🎓 Studying at 42 School, I've vastly improved my skills in software development.
+Background: 42 Network, Humboldt-University of Berlin (Neuroscience), CS50(HarvardX University) etc.
 
-🔬 A university degree in biology and natural sciences complementing my technical expertise with a unique perspective.
+I enjoy the process of developing software and problem solving in a collaborative environment.
 
-💻 Always making time for additional certifications! Completed: CS50(HarvardX University)
-
-
-
-As a developer I am always open for new opportunities. 🚀
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <h3>Let's Connect!</h3>
 
