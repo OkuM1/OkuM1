@@ -7,8 +7,6 @@ Background: 42 Network, Humboldt-University of Berlin (Neuroscience), CS50(Harva
 I enjoy the process of developing software and problem solving in a collaborative environment. 
 In a continuously evolving technical landscape, adapting is key.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=OkuM1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 <h3>Let's Connect!</h3>
 
 
